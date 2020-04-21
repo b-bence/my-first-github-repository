@@ -1,4 +1,4 @@
 # my-first-github-repository
 Not first repo. Just following Udemy tutorial
 
-Updating this file manually on github. This file was modified locally
+This line was modified manually during conflicts resolution
